@@ -339,8 +339,6 @@ elif choice == "Análisis Físico":
 - **⚙️ Respuesta Anaeróbica:**  
   Su capacidad para encadenar esfuerzos de alta intensidad es notable, aunque la acumulación de metros en el tramo final penaliza un poco su punch defensivo. 
 
-- **🦵 Flexibilidad & Prevención Lesional:**  
-  Mantiene un rango de movilidad adecuado en cadera y tobillos que favorece la técnica de carrera y los cambios rápidos de dirección.
 
 - **🏃‍♂️ Participación Física en Juego:**  
   Su implicación en la presión alta y repliegues es evidente, recorriendo zonas amplias de la banda. Para maximizar su rendimiento, podría reforzar su intensidad de sprint tras pérdida y su presencia en zonas de rechace, convirtiéndose en un pulmón ofensivo y defensivo durante los 90 minutos.
