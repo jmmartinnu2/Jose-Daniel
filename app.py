@@ -312,9 +312,9 @@ elif choice == "Análisis Táctico":
     pitch = Pitch(pitch_type='statsbomb', pitch_color='#aabb97', line_color='white')
     fig, ax = pitch.draw(figsize=(8,6))
     # Ubicación aproximada en banda derecha
-    ax.scatter(100, 70, s=300, color='#1f4e78', edgecolors='white', linewidth=2)
+    ax.scatter(100, 72, s=300, color='#1f4e78', edgecolors='white', linewidth=2)
     ax.scatter(90, 20, s=300, color='#1f4e78', edgecolors='white', linewidth=2)
-    ax.text(90, 74, "José Daniel", ha='center', color='white', weight='bold')
+    ax.text(100, 75, "José Daniel", ha='center', color='white', weight='bold')
     st.pyplot(fig)
 
 # ----------------------------------------
