@@ -108,7 +108,7 @@ jugador = {
         "https://youtu.be/RZFe9J05mR4",
         "https://youtu.be/AeSPCk62nmo"
     ],
-    "radar": {"Ritmo":7, "Físico":7, "Defensa":8, "Regate":8, "Pase":8, "Tiro":5},
+    "radar": {"Ritmo":7, "Físico":7, "Defensa":5, "Regate":8, "Pase":7, "Tiro":7},
     "partidos": [
         {
             "titulo": "⚽ UD San Pedro vs CD Estepona",
