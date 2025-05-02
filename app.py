@@ -315,7 +315,7 @@ elif choice == "Análisis Táctico":
     ax.scatter(100, 72, s=300, color='#1f4e78', edgecolors='white', linewidth=2)
     ax.scatter(90, 20, s=300, color='#1f4e78', edgecolors='white', linewidth=2)
     ax.text(100, 78, "José Daniel", ha='center', color='white', weight='bold')
-    ax.text(90, 25 "José Daniel", ha='center', color='white', weight='bold')
+    ax.text(90, 25, "José Daniel", ha='center', color='white', weight='bold')
     st.pyplot(fig)
 
 # ----------------------------------------
