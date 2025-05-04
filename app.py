@@ -160,6 +160,14 @@ jugador = {
                     "liderazgo": "Impuso carácter tras empate."
                 }
             }
+        },
+        {
+            "titulo": "⚽ Estación de Cártama vs CD Estepona",
+            "rival": "Estación de Cártama",
+            "resultado": "1 – 2",
+            "rol": "Extremo derecho",
+            "valoracion": 3,
+            # 
         }
     ]
 }
