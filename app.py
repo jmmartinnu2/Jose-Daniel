@@ -354,22 +354,40 @@ elif choice == "Análisis Físico":
 
 
 # ----------------------------------------
-# 7. Conclusiones
+# 7. Conclusiones & Recomendaciones
 # ----------------------------------------
 elif choice == "Conclusiones":
     st.title("✅ Conclusiones & Recomendaciones")
     st.markdown("""
-**Fortalezas**  
-- Desborde 1vs1 , asosiciaciones con delantero o enlace es de lo mas destacado. Palpamos buen golpeo de balon pero nos ha faltado ver más en ese aspecto.  
-- Cambio de ritmo, velocidad "eléctrico" y visión de pase. Anticipa jugadas. Tiene buen manejo de balón y técnicamente es un jugador destacado en su categoria. 
+**🔝 Fortalezas**  
+- **Desborde 1vs1:** Rompe líneas con un cambio de ritmo explosivo; gestiona el espacio entre defensor y banda, desequilibrando con amagos y conducciones limpias.  
+- **Asociaciones en ataque:** Excelente lectura para triangular: paredes, desmarques de apoyo y cambios de orientación que liberan segundo palo. Su sintonía con el delantero genera continuas ayudas ofensivas.  
+- **Cambio de ritmo “eléctrico”:** Capaz de acelerar en distancias cortas y medias para aprovechar brechas en la defensa, descolocando trazados defensivos con velocidad punta y explosividad.  
+- **Visión de juego:** Detecta pasillos interiores antes de que se abran; anticipa movimientos rivales y filtra balones interiores con peso y ángulo precisos.  
+- **Técnica depurada:** Control orientado al pie fuerte y facilidad para girarse bajo presión, proyectando confianza en espacios reducidos.  
 
-**Áreas de mejora**  
-1. Pases largos y jugar mas buscando porteria rival. Tiene llegada al area y tiene que hacer mas goles.  
-2. Mejorar el aspecto táctico y emocional. 
-3. Nos gustaria ver el rendimiento de José Daniel en categorias de Cadete más relevantes. 
+---
 
+**🛠️ Áreas de Mejora**  
+1. **Pases largos & proyección ofensiva:**  
+   - Potenciar la pegada y el ángulo de los envíos en profundidad (>30 m) para conectar con carrileros y extremos.  
+   - Entrenar golpeo con empeine y empeine interno para ganar distancia y precisión en diagonales largas.  
+2. **Búsqueda de portería:**  
+   - Aumentar el instinto finalizador: incorporarse más al segundo palo y probar el disparo desde la frontal.  
+   - Trabajo de definición en carrera y remates de volea para aprovechar mejor sus incursiones.  
+3. **Toma de decisiones & lectura táctica:**  
+   - Mejorar la elección de pase en zonas de tres cuartos: alternar entre conducción y pase para no forzar situaciones de mano a mano.  
+   - Pulir los automatismos defensivos (coberturas y ayudas) cuando ejerce presión alta.  
+4. **Gestión emocional & concentración:**  
+   - Mantener el foco en fases adversas: evitar desconexiones tras un revés, frenando la caída de rendimiento.  
+   - Ejercicios de resiliencia y visualización para sostener el nivel competitivo hasta el pitido final.  
+5. **Adaptación a categorías superiores:**  
+   - Adaptar su juego a la mayor intensidad y físico del cadete: ganar masa muscular en tren superior y reforzar el tren inferior para duelos cuerpo a cuerpo.  
+   - Acelerar su ritmo de juego para no perder ventaja en transiciones ante defensas más sólidas.  
+6. **Liderazgo y comunicación:**   
+   - Fomentar un perfil de líder positivo: celebrar colectivamente y reforzar moral cuando el equipo atraviesa momentos difíciles.  
 
+> 
     """)
-
 
 
